@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{77EC37EF-0DC8-4524-A25E-2F173986C3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum.Tests", "TwoSum.Tests\TwoSum.Tests.csproj", "{873FF67B-7458-441D-B7EF-DBD707D61BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77EC37EF-0DC8-4524-A25E-2F173986C3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EC37EF-0DC8-4524-A25E-2F173986C3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EC37EF-0DC8-4524-A25E-2F173986C3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EC37EF-0DC8-4524-A25E-2F173986C3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873FF67B-7458-441D-B7EF-DBD707D61BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873FF67B-7458-441D-B7EF-DBD707D61BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873FF67B-7458-441D-B7EF-DBD707D61BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873FF67B-7458-441D-B7EF-DBD707D61BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
