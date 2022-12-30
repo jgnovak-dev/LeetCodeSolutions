@@ -1,7 +1,5 @@
 ﻿namespace ContainsDuplicate;
 
-using System.Globalization;
-
 public class Solution {
 
     public bool ContainsDuplicate(int[] numbers) {
