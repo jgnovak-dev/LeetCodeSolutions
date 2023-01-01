@@ -7,6 +7,7 @@ public class Tests {
     
     [SetUp]
     public void Setup() {
+        _solution = new Solution();
     }
 
     [Test]
@@ -26,6 +27,10 @@ public class Tests {
         string firstString,
         string secondString,
         bool correctAnswer) {
+
+        var result = _solution.IsAnagram(firstString, secondString);
         
+        Assert.That(result, Is.EqualTo(correctAnswer));
+
     }
 }
