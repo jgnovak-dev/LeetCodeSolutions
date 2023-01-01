@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubseque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence.Tests", "IsSubsequence.Tests\IsSubsequence.Tests.csproj", "{B33967DE-6C58-4117-9BA3-34E7108AE7FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord.Tests", "LengthOfLastWord.Tests\LengthOfLastWord.Tests.csproj", "{2924CDB4-7708-46D8-B751-540F300FA7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{2E12B80E-BF35-437F-9E22-276001818727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{B33967DE-6C58-4117-9BA3-34E7108AE7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B33967DE-6C58-4117-9BA3-34E7108AE7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B33967DE-6C58-4117-9BA3-34E7108AE7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2924CDB4-7708-46D8-B751-540F300FA7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2924CDB4-7708-46D8-B751-540F300FA7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2924CDB4-7708-46D8-B751-540F300FA7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2924CDB4-7708-46D8-B751-540F300FA7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E12B80E-BF35-437F-9E22-276001818727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E12B80E-BF35-437F-9E22-276001818727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E12B80E-BF35-437F-9E22-276001818727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E12B80E-BF35-437F-9E22-276001818727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
