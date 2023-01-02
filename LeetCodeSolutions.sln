@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord.Tests", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{2E12B80E-BF35-437F-9E22-276001818727}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{88408C59-AED3-4D15-85E7-51A1D46DD1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement.Tests", "RemoveElement.Tests\RemoveElement.Tests.csproj", "{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{2E12B80E-BF35-437F-9E22-276001818727}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E12B80E-BF35-437F-9E22-276001818727}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E12B80E-BF35-437F-9E22-276001818727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88408C59-AED3-4D15-85E7-51A1D46DD1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88408C59-AED3-4D15-85E7-51A1D46DD1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88408C59-AED3-4D15-85E7-51A1D46DD1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88408C59-AED3-4D15-85E7-51A1D46DD1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
