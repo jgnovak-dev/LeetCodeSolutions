@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement.Tests", "RemoveElement.Tests\RemoveElement.Tests.csproj", "{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{238D82BA-11DB-463F-8B6F-85D0F31A695B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings.Tests", "IsomorphicStrings.Tests\IsomorphicStrings.Tests.csproj", "{4BEC80EB-A24D-4D9B-8A08-C96607B98C4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{016E6EE8-DCF7-4561-9C30-DC3657D3CE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238D82BA-11DB-463F-8B6F-85D0F31A695B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238D82BA-11DB-463F-8B6F-85D0F31A695B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238D82BA-11DB-463F-8B6F-85D0F31A695B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238D82BA-11DB-463F-8B6F-85D0F31A695B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEC80EB-A24D-4D9B-8A08-C96607B98C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEC80EB-A24D-4D9B-8A08-C96607B98C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEC80EB-A24D-4D9B-8A08-C96607B98C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEC80EB-A24D-4D9B-8A08-C96607B98C4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
