@@ -19,6 +19,10 @@ public class Tests {
         string letters, 
         string words, 
         bool correctAnswer) {
+
+        var result = _solution.WordPattern(letters, words);
         
+        Assert.That(result, Is.EqualTo(correctAnswer));
+
     }
 }
