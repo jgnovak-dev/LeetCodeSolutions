@@ -11,6 +11,7 @@ public class Solution {
         for (var i = 0; i < numbers.Length; i++) {
             var rightSum = totalSum - leftSum - numbers[i];
             if (leftSum == rightSum) {
+               // Found the pivot index 
                 return i;
             }
 
