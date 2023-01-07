@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAddresses", "Uni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAddresses.Tests", "UniqueEmailAddresses.Tests\UniqueEmailAddresses.Tests.csproj", "{5A4B8391-F1BE-4078-98D4-2417F66960D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPivotIndex", "FindPivotIndex\FindPivotIndex.csproj", "{1733CB0B-3720-4C96-B7C5-FAAABC1E00A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPivotIndex.Tests", "FindPivotIndex.Tests\FindPivotIndex.Tests.csproj", "{376FE7A7-107F-4E04-862A-743734A55886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +130,13 @@ Global
 		{5A4B8391-F1BE-4078-98D4-2417F66960D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A4B8391-F1BE-4078-98D4-2417F66960D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A4B8391-F1BE-4078-98D4-2417F66960D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1733CB0B-3720-4C96-B7C5-FAAABC1E00A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1733CB0B-3720-4C96-B7C5-FAAABC1E00A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1733CB0B-3720-4C96-B7C5-FAAABC1E00A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1733CB0B-3720-4C96-B7C5-FAAABC1E00A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376FE7A7-107F-4E04-862A-743734A55886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376FE7A7-107F-4E04-862A-743734A55886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376FE7A7-107F-4E04-862A-743734A55886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376FE7A7-107F-4E04-862A-743734A55886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
