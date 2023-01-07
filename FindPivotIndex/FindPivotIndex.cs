@@ -18,6 +18,7 @@ public class Solution {
             leftSum += numbers[i];
         }
 
+        // Did not find a pivot index
         return -1;
     }
 
