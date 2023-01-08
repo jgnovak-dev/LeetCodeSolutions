@@ -21,7 +21,7 @@ public class Tests {
     [TestCase("  ", true)]
     [TestCase(".", true)]
     [TestCase("......a.....", true)]
-    public void IsPalindrome_WhenCalled_ResturnsCorrectAnswer(
+    public void IsPalindrome_WhenCalled_ReturnsCorrectAnswer(
         string aString, 
         bool correctAnswer) {
         var result = _solution.IsPalindrome(aString);
