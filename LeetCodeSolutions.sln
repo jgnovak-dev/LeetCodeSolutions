@@ -44,6 +44,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPivotIndex", "FindPivot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPivotIndex.Tests", "FindPivotIndex.Tests\FindPivotIndex.Tests.csproj", "{376FE7A7-107F-4E04-862A-743734A55886}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{65F83F86-B822-4F72-90BA-02AA38E3FADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome.Tests", "ValidPalindrome.Tests\ValidPalindrome.Tests.csproj", "{146361E5-3F55-4635-94D1-2C665222FB14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +142,13 @@ Global
 		{376FE7A7-107F-4E04-862A-743734A55886}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{376FE7A7-107F-4E04-862A-743734A55886}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{376FE7A7-107F-4E04-862A-743734A55886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F83F86-B822-4F72-90BA-02AA38E3FADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F83F86-B822-4F72-90BA-02AA38E3FADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F83F86-B822-4F72-90BA-02AA38E3FADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F83F86-B822-4F72-90BA-02AA38E3FADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146361E5-3F55-4635-94D1-2C665222FB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146361E5-3F55-4635-94D1-2C665222FB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146361E5-3F55-4635-94D1-2C665222FB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146361E5-3F55-4635-94D1-2C665222FB14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
