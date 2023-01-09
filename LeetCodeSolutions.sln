@@ -48,6 +48,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome.Tests", "ValidPalindrome.Tests\ValidPalindrome.Tests.csproj", "{146361E5-3F55-4635-94D1-2C665222FB14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{1F20A36B-BC48-448E-B94E-3619D2381DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray.Tests", "MergeSortedArray.Tests\MergeSortedArray.Tests.csproj", "{D67CF280-7A9D-4018-AF3C-E987F1F2284F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +154,13 @@ Global
 		{146361E5-3F55-4635-94D1-2C665222FB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{146361E5-3F55-4635-94D1-2C665222FB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{146361E5-3F55-4635-94D1-2C665222FB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F20A36B-BC48-448E-B94E-3619D2381DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F20A36B-BC48-448E-B94E-3619D2381DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F20A36B-BC48-448E-B94E-3619D2381DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F20A36B-BC48-448E-B94E-3619D2381DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67CF280-7A9D-4018-AF3C-E987F1F2284F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67CF280-7A9D-4018-AF3C-E987F1F2284F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67CF280-7A9D-4018-AF3C-E987F1F2284F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67CF280-7A9D-4018-AF3C-E987F1F2284F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
