@@ -52,6 +52,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray.Tests", "MergeSortedArray.Tests\MergeSortedArray.Tests.csproj", "{D67CF280-7A9D-4018-AF3C-E987F1F2284F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{7D03F3FD-1F13-4505-937A-5A6683753F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses.Tests", "ValidParentheses.Tests\ValidParentheses.Tests.csproj", "{4BAED76D-D5B5-4FFC-B7C3-0A4FE443E980}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +166,13 @@ Global
 		{D67CF280-7A9D-4018-AF3C-E987F1F2284F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D67CF280-7A9D-4018-AF3C-E987F1F2284F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D67CF280-7A9D-4018-AF3C-E987F1F2284F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D03F3FD-1F13-4505-937A-5A6683753F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D03F3FD-1F13-4505-937A-5A6683753F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D03F3FD-1F13-4505-937A-5A6683753F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D03F3FD-1F13-4505-937A-5A6683753F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAED76D-D5B5-4FFC-B7C3-0A4FE443E980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAED76D-D5B5-4FFC-B7C3-0A4FE443E980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAED76D-D5B5-4FFC-B7C3-0A4FE443E980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAED76D-D5B5-4FFC-B7C3-0A4FE443E980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
